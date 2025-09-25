@@ -1,9 +1,9 @@
 main:
-  - title: "Experience"
-    url: /experience/
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: /about/
+  - title: "Pre"
+    url: /pre/
   #- title: "Tags"
   #  url: /tags/
-  - title: "CV"
-    url: /assets/images/kangla-fort-imphal.jpg
+  - title: "tg"
+    url: /tg/
