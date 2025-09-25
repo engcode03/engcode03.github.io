@@ -26,4 +26,17 @@
 </div>
 {% endif %}
 
+<!-- CountAPI Visitor Counter -->
+<div style="font-size: 0.85em; padding-top: 0.5em;">
+  <p>TV: <span id="visits"></span></p>
+  <script>
+    fetch('https://api.countapi.xyz/hit/engcode03-portfolio/total-site-visits')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('visits').innerText = data.value;
+      });
+  </script>
+</div>
+
+
 <div class="page__footer-copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title | escape_once | strip }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
