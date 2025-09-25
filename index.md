@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 header:
-  image: /assets/images/kangla-fort-imphal.jpg
+  image: /assets/images/bg2.jpg
 layout: single
 author_profile: true
 ---
