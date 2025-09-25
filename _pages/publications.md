@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 Journals
-<ol>
+<ol style="font-size: 0.7em;">
   <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay.  “An empirical study of a novel multimodal dataset for low resource machine translation” Knowledge and Information Systems (2024) [SCIE]</li>
   <li>Meetei, Loitongbam Sanayai, Alok Singh, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Do cues in a video help in handling rare words in a machine translation system under a low-resource setting?." Natural Language Processing Journal (2023) -Elsevier: 100016.</li>
   <li>Meetei, Loitongbam Sanayai, Thoudam Doren Singh, and Sivaji Bandyopadhyay. "Exploiting Multiple Correlated Modalities can Enhance Low-Resource Machine Translation Quality" Multimedia Tools and Applications (2023): 1-21. [Scopus]</li>
