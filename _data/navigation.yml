@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Experience"
+    url: /experience/
+  - title: "Publications"
+    url: /publications/
+  #- title: "Tags"
+  #  url: /tags/
+  - title: "CV"
+    url: /assets/images/kangla-fort-imphal.jpg
