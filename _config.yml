@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: LSM
+title: Eng
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 #twitter_username: username
 github_username: engcode03
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -65,9 +65,9 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/"
-    - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
-      url: "https://scholar.google.com/"
+    #- label: "Google Scholar"
+    #  icon: "fa-brands fa-google-scholar"
+    #  url: "https://scholar.google.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,9 +77,9 @@ footer:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
       url: "https://www.linkedin.com/"
-    - label: "Google Scholar"
-      icon: "fa-brands fa-google-scholar"
-      url: "https://scholar.google.com/"
+    #- label: "Google Scholar"
+    #  icon: "fa-brands fa-google-scholar"
+    #  url: "https://scholar.google.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
