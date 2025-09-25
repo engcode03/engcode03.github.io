@@ -7,4 +7,7 @@ author_profile: true
 ---
 
 
+header:
+  image: /assets/images/kangla-fort-imphal.jpg
+
 Testing
